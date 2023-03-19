@@ -1,1 +1,1 @@
-# Extr-mn-programov-n-Testy
+# Extrémní programování - Testy - Kudera,Mastný
